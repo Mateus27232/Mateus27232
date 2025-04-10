@@ -1,18 +1,21 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=0000FF&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Fulano!;Seja+bem-vindo+ao+meu+GitHub!&fontSize=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=66CCFF&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Mateus+Covre!;Seja+bem-vindo+ao+meu+GitHub!&fontSize=30" alt="Typing SVG" />
 </p>
-
-
 
 
 <!-- GITHUB STATS -->
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus27232&theme=github_dark&show_icons=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus27232&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
+
+
 <!-- REDES SOCIAIS -->
 
 <p align="left">
-  <a href="https://instagram.com/mateus.covre23" target="_blank">
+  <a href="https://instagram.com/mateus.covre.23" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
