@@ -2,7 +2,14 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=66CCFF&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Mateus+Covre!;Seja+bem-vindo+ao+meu+GitHub!&fontSize=30" alt="Typing SVG" />
 </p>
+<!--Sobre mim -->
+<p align="Left">
+  <span style="font-size:18px; color:#9999ff;">
+    Oi eu sou o Mateus, Atualmente estou cursando desenvolvimento de sistemas no SENAI/ITU.
+  </span>
+</p>
 
+</div>
 
 <!-- GITHUB STATS -->
 
