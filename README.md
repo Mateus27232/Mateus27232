@@ -7,7 +7,7 @@
   <span style="font-size:18px; color:#9999ff;">
     Oi eu sou o Mateus, Atualmente estou cursando desenvolvimento de sistemas no SENAI/ITU.
   </span>
----
+
 
 </p>
 
@@ -27,7 +27,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
----
+
+***
 
 <!-- REDES SOCIAIS -->
 
