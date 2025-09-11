@@ -3,9 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=66CCFF&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Mateus+Covre!;Seja+bem-vindo+ao+meu+GitHub!&fontSize=30" alt="Typing SVG" />
 </p>
 
-<hr style="height:1px; border:none; background-color:#ccc;" />
+<hr style="height:0.5px; border:none; background-color:#999;" />
 
-***
 <!--Sobre mim -->
 <p align="Left">
   <span style="font-size:18px; color:#9999ff;">
@@ -32,7 +31,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
 
-***
+<hr style="height:0.5px; border:none; background-color:#999;" />
+
 
 <!-- REDES SOCIAIS -->
 
@@ -46,7 +46,7 @@
 
 </p>
 
-***
+
 
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 
