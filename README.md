@@ -18,9 +18,9 @@
   <hr style="height:0.5px; border:none; background-color:#999;" />
 
   <!-- GITHUB STATS -->
- | GitHub Stats | Linguagens Mais Usadas |
+| GitHub Stats | Linguagens Mais Usadas |
 |--------------|-------------------------|
-| ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus27232&theme=github_dark&show_icons=true) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus27232&layout=compact&theme=github_dark" alt="Top Langs" /> |
+| ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus27232&theme=github_dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus27232&layout=compact&theme=github_dark) |
 
   <!-- COBRINHA -->
   <picture>
