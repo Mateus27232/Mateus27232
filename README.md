@@ -18,7 +18,8 @@
   <hr style="height:0.5px; border:none; background-color:#999;" />
 
 
-
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mateus27232&layout=donut-vertical&theme=radical&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)](https://github.com/Mateus27232)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Mateus27232&show_icons=true&theme=radical&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)
 
 
 
