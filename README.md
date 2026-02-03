@@ -23,13 +23,19 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Mateus27232&show_icons=true&theme=github_dark&count_private=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus27232&layout=compact&theme=github_dark"
-    height="165"
+    alt="GitHub Stats"
+    height="160"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus27232&layout=compact&theme=github_dark"
+    alt="Top Languages"
+    height="160"
+  />
+</p>
+
 
 
 
