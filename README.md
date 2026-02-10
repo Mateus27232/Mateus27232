@@ -2,9 +2,10 @@
 
   <!-- TEXTO ANIMADO -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=0000&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Mateus+Covre!;Seja+bem-vindo+ao+meu+GitHub!&fontSize=30" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FFFFFF&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Mateus+Covre!;Seja+bem-vindo+ao+meu+GitHub!&fontSize=30" 
   alt="Typing SVG" 
 />
+
 
 
   <hr style="height:0.5px; border:none; background-color:#999;" />
