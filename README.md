@@ -31,6 +31,11 @@
   </picture>
 
   <hr style="height:0.5px; border:none; background-color:#999;" />
+<!-- Corinthians -->
+  <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Escudo do Corinthians" width="150"/>
+</p>
+
 
   <!-- REDES SOCIAIS -->
   <p>
