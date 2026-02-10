@@ -17,8 +17,11 @@
 
   <hr style="height:0.5px; border:none; background-color:#999;" />
 
-![Visitors](https://komarev.com/ghpvc/?username=Mateus27232&color=blue)
 
+<!-- Corinthians -->
+  <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Escudo do Corinthians" width="150"/>
+</p>
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mateus27232&layout=donut-vertical&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)](https://github.com/Mateus27232)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Mateus27232&show_icons=true&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)
@@ -33,10 +36,7 @@
   </picture>
 
   <hr style="height:0.5px; border:none; background-color:#999;" />
-<!-- Corinthians -->
-  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Escudo do Corinthians" width="150"/>
-</p>
+
 
 
   <!-- REDES SOCIAIS -->
