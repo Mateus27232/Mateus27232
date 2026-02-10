@@ -23,8 +23,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Escudo do Corinthians" width="150"/>
 </p>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mateus27232&layout=donut-vertical&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)](https://github.com/Mateus27232)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Mateus27232&show_icons=true&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)
+<!-- GITHUB STATS PRETO & BRANCO -->
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=Mateus27232&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mateus27232&layout=donut&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
