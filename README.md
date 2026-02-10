@@ -21,7 +21,7 @@
 
 <!-- Corinthians -->
   <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Escudo do Corinthians" width="130"/>
+  <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Escudo do Corinthians" width="110"/>
 </p>
 
 <!-- GITHUB STATS PRETO & BRANCO -->
