@@ -19,10 +19,7 @@
   <hr style="height:0.5px; border:none; background-color:#999;" />
 
 
-<!-- Corinthians -->
-  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Escudo do Corinthians" width="110"/>
-</p>
+
 
 <!-- GITHUB STATS PRETO & BRANCO -->
 <table>
@@ -53,29 +50,43 @@
 
   <hr style="height:0.5px; border:none; background-color:#999;" />
 
+<!-- BLOCO PRINCIPAL -->
+<table align="center">
+  <tr>
+    <!-- LINGUAGENS -->
+    <td align="left" width="60%">
+      <h3>💻 Linguagens e Tecnologias</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <!-- Corinthians --> 
+      <img
+        src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png"
+        alt="Escudo do Corinthians"
+        width="110"
+      />
+    </td>
+    
+  </tr>
+</table>
 
+<!-- REDES SOCIAIS -->
+<p align="center">
+  <a href="https://instagram.com/mateus.covre.23" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mateus-covre-33897835b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-  <!-- REDES SOCIAIS -->
-  <p>
-    <a href="https://instagram.com/mateus.covre.23" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://www.linkedin.com/in/mateus-covre-33897835b/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-
-  <!-- LINGUAGENS DE PROGRAMAÇÃO -->
-  <h3>Linguagens e Tecnologias</h3>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
   
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> -->
 
