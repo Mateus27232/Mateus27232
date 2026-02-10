@@ -55,7 +55,7 @@
   <tr>
     <!-- LINGUAGENS -->
     <td align="left" width="60%">
-      <h3>💻 Linguagens e Tecnologias</h3>
+      <h3>💻 Tecnologias</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
